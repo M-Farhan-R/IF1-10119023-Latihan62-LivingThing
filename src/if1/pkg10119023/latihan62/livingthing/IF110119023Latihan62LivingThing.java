@@ -12,7 +12,7 @@ package if1.pkg10119023.latihan62.livingthing;
  * NAMA              : Muhammad Farhan R <farhan.10119023@mahasiswa.email.ac.id> 
  * KELAS             : IF1
  * NIM               : 10119023
- * Deskripsi Program : 
+ * Deskripsi Program : program menulis hal yang dilakukan makhluk hidup
  *
  */
 public class IF110119023Latihan62LivingThing {
